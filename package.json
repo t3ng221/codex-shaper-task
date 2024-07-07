@@ -1,6 +1,7 @@
 {
   "name": "codex-task",
   "private": true,
+  "homepage": "https://t3ng221.github.io/codex-shaper-task/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -12,6 +13,7 @@
   "dependencies": {
     "@material-ui/core": "^4.12.4",
     "@material-ui/icons": "^4.11.3",
+    "gh-pages": "^6.1.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "styled-components": "^6.1.11"
